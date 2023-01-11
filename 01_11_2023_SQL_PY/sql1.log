@@ -1,0 +1,32 @@
+INFO root Already existing 2023-01-11 13:06:14,931
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:06:14,932
+INFO root DB closed 2023-01-11 13:06:14,934
+INFO root Already existing 2023-01-11 13:06:51,689
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:06:51,690
+INFO root ---------------------------------------- 2023-01-11 13:06:51,690
+INFO root DB closed 2023-01-11 13:06:51,691
+INFO root Already existing 2023-01-11 13:09:56,236
+INFO root ---------------------------------------- 2023-01-11 13:09:56,237
+INFO root Already existing 2023-01-11 13:10:27,875
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:10:27,875
+INFO root ---------------------------------------- 2023-01-11 13:10:27,875
+INFO root DB closed 2023-01-11 13:10:27,875
+INFO root Already existing 2023-01-11 13:11:13,146
+INFO root ---------------------------------------- 2023-01-11 13:11:13,147
+INFO root DB closed 2023-01-11 13:11:13,147
+INFO root Already existing 2023-01-11 13:13:56,502
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:13:56,503
+INFO root ---------------------------------------- 2023-01-11 13:13:56,503
+INFO root DB closed 2023-01-11 13:13:56,503
+INFO root Already existing 2023-01-11 13:17:10,098
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:17:10,099
+INFO root ---------------------------------------- 2023-01-11 13:17:10,099
+INFO root DB closed 2023-01-11 13:17:10,099
+INFO root Already existing 2023-01-11 13:25:55,517
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:25:55,517
+INFO root ---------------------------------------- 2023-01-11 13:25:55,517
+INFO root DB closed 2023-01-11 13:25:55,518
+INFO root Already existing 2023-01-11 13:31:52,638
+INFO root [('cust',), ('default',), ('dhanush',), ('info',), ('info_org',), ('information_schema',), ('mysql',), ('name',), ('performance_schema',), ('sakila',), ('stu_py',), ('stu_py1',), ('stu_py2',), ('stu_py3',), ('students_info',), ('sys',), ('world',)] 2023-01-11 13:31:52,639
+INFO root ------------------------------------------------------------ 2023-01-11 13:31:52,639
+INFO root DB closed 2023-01-11 13:31:52,639
